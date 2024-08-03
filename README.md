@@ -8,7 +8,6 @@
 - 🔭 I run a DIY youtube channel: [Classic Mini DIY][youtube]!
 - 🌱 I am currently focusing on VueJS, and Angular
 - 👯 I’m always interested in collaborating on open source projects
-- 🥅 2021 Goals: Grow the Youtube channel and take on larger projects
 
 ### Connect with me:
 

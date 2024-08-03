@@ -10,10 +10,6 @@
 - 👯 I’m always interested in collaborating on open source projects
 - 🥅 2021 Goals: Grow the Youtube channel and take on larger projects
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.classicminidiy.vercel.app/api/spotify)](https://open.spotify.com/user/SomethingNew71)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
